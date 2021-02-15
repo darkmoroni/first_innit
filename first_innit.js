@@ -1,1 +1,2 @@
-console.log('hola mamá');
+x= 'hello world';
+console.log(x);
